@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.dpg-legacy/
+.Other/
+output
+downloaded
+# Virtual environments
+.venv
+output
+*.pyd
+dll
